@@ -1,0 +1,20 @@
+Training iteration 0
+Training iteration 1
+Training iteration 2
+Training iteration 3
+Training iteration 4
+end of training
+Naive Bayes
+-----------
+predicted:	pos	neg
+actual:
+pos		55058	19927
+neg		45645	29335
+accuracy: 0.562751
+Logistic Regression
+-------------------
+predicted:	pos	neg
+actual:
+pos		56992	17993
+neg		30566	44414
+accuracy: 0.676198
